@@ -8,25 +8,22 @@
 
 ## 👨‍💻 SYSTEM_LOG: DEVELOPER_IDENTITY
 
-<table border="0">
-  <tr>
-    <td width="550" valign="top">
-      <h3>🚀 ROOT_ACCESS @ SANDEEP_KUMAR</h3>
-      <p>I am a <b>Full-Stack Engineer</b> and the lead architect behind <b>Quantazeroplus</b>. 🛠️ My core function is compiling complex business logic into high-performance, responsive web environments. I focus on bridging the gap between local enterprise and modern web standards. ⚡</p>
-      <br>
-      <b>[⚙️] RUNNING_PROCESSES:</b>
-      <ul>
-        <li>🔭 <b>Main_Thread:</b> Scaling <code>Quantazeroplus</code> for local digital presence. 🏢</li>
-        <li>💡 <b>Kernel_Feature:</b> Implementing QR-integrated automation & GPS logic. 🧠</li>
-        <li>🌱 <b>Dependency_Update:</b> Mastering <code>Advanced Python</code> & <code>Scalable Architectures</code>. 📈</li>
-        <li>⚡ <b>System_Philosophy:</b> <code>while (shop.status == "local") { shop.deploy(worldClassWeb); }</code> 🌍</li>
-      </ul>
-    </td>
-    <td width="450" align="center" valign="middle">
-      <br> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXY0dXNxNnprMm9vdXVxMmpodjh0OHd0YXdmZXd0MHU0bDFpYjM3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vmQAsNXEgvItJxpgL4/giphy.gif" width="100%" style="border-radius: 10px; border: 2px solid #39FF14; display: block;" alt="Dev Pixel Art">
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXY0dXNxNnprMm9vdXVxMmpodjh0OHd0YXdmZXd0MHU0bDFpYjM3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vmQAsNXEgvItJxpgL4/giphy.gif" align="right" width="400" style="margin-left: 20px; border-radius: 10px; border: 2px solid #39FF14;" alt="Dev Pixel Art">
+
+  <h3>🚀 ROOT_ACCESS @ SANDEEP_KUMAR</h3>
+  I am a <b>Full-Stack Engineer</b> and the lead architect behind <b>Quantazeroplus</b>. 🛠️ My core function is compiling complex business logic into high-performance, responsive web environments. I focus on bridging the gap between local enterprise and modern web standards. ⚡
+  <br><br>
+  <b>[⚙️] RUNNING_PROCESSES:</b>
+  <ul>
+    <li>🔭 <b>Main_Thread:</b> Scaling <code>Quantazeroplus</code> for local digital presence. 🏢</li>
+    <li>💡 <b>Kernel_Feature:</b> Implementing QR-integrated automation & GPS logic. 🧠</li>
+    <li>🌱 <b>Dependency_Update:</b> Mastering <code>Advanced Python</code> & <code>Scalable Architectures</code>. 📈</li>
+    <li>⚡ <b>System_Philosophy:</b> <code>while (shop.status == "local") { shop.deploy(worldClassWeb); }</code> 🌍</li>
+  </ul>
+</p>
+
+<br clear="right">
 
 ---
 
