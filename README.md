@@ -10,7 +10,7 @@
 
 <table border="0">
   <tr>
-    <td width="50%" valign="top">
+    <td width="550" valign="top">
       <h3>🚀 ROOT_ACCESS @ SANDEEP_KUMAR</h3>
       <p>I am a <b>Full-Stack Engineer</b> and the lead architect behind <b>Quantazeroplus</b>. 🛠️ My core function is compiling complex business logic into high-performance, responsive web environments. I focus on bridging the gap between local enterprise and modern web standards. ⚡</p>
       <br>
@@ -22,8 +22,8 @@
         <li>⚡ <b>System_Philosophy:</b> <code>while (shop.status == "local") { shop.deploy(worldClassWeb); }</code> 🌍</li>
       </ul>
     </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXY0dXNxNnprMm9vdXVxMmpodjh0OHd0YXdmZXd0MHU0bDFpYjM3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vmQAsNXEgvItJxpgL4/giphy.gif" width="100%" style="border-radius: 10px; border: 2px solid #39FF14; aspect-ratio: 16/9; object-fit: cover;" alt="Dev Pixel Art">
+    <td width="450" align="center" valign="middle">
+      <br> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXY0dXNxNnprMm9vdXVxMmpodjh0OHd0YXdmZXd0MHU0bDFpYjM3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vmQAsNXEgvItJxpgL4/giphy.gif" width="100%" style="border-radius: 10px; border: 2px solid #39FF14; display: block;" alt="Dev Pixel Art">
     </td>
   </tr>
 </table>
